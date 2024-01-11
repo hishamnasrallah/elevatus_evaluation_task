@@ -1,0 +1,3 @@
+_id,first_name,last_name,email,career_level,job_major,years_of_experience,degree_type,skills,nationality,city,salary,gender,uuid
+659f50a2337d6970e4c94eb3,string,string,user@example.com,string,string,0,string,['string'],string,string,0.0,male,67511246-762f-40ee-92c2-4742dd75226f
+659f559a938e01e87795cd7f,string,string,user@example.com,string,string,0,string,['string'],string,string,0.0,male,7fb29ef1-0c29-40c0-906a-b50e65bcc6ea
